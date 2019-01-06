@@ -5,7 +5,7 @@ _A longform template for beautiful stories_
 The goal of this template to make longform journalism look great online — on phones, laptops, tablets, etc.
 Find any glitches or things not displaying correctly? Or ides to make the template better? Please email me jdecastr@iu.edu with those.
 
-#### Want the digi desk to develop your story with this template? [Fill out this form](https://goo.gl/forms/zWgSYdqiQ0CRKAGw1)! 
+``` Want the digi desk to develop your story with this template? [Fill out this form](https://goo.gl/forms/zWgSYdqiQ0CRKAGw1)! ```
 
 **What's included?**
 - Longform template - for stories
