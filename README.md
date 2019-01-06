@@ -17,4 +17,5 @@ Yes, see:
 
 ### More information
 Like most things, this template is constantly being updated and refined to make things as easy and possible to use.
-_Current version: 1_
+
+_Version 1 (December 2018)_
